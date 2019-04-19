@@ -1,0 +1,14 @@
+.JSdiv {
+    text-align: center;
+    margin: 200px auto 0;
+    width: 300px;
+    background-color: #eee;
+    padding: 60px 0;
+    
+}
+
+.JSdiv ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
